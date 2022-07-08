@@ -1,0 +1,8 @@
+.donation {display:flex;}
+.donates {display: flex;width:900px;margin-right:50px;}
+.donate{text-align: center;} 
+.taka{display: inline;margin-right: 5%;margin-top:5%;
+    margin-bottom: 4%;
+font-family:bold;font-size:20px;}
+.input{margin-top:5%;width:500px;}
+.donatenow{ margin-top: 2%;}
