@@ -1,8 +1,25 @@
-.donation {display:flex;}
-.donates {display: flex;width:900px;margin-right:50px;}
-.donate{text-align: center;} 
-.taka{display: inline;margin-right: 5%;margin-top:5%;
-    margin-bottom: 4%;
-font-family:bold;font-size:20px;}
-.input{margin-top:5%;width:500px;}
-.donatenow{ margin-top: 2%;}
+.heading {text-align: center;}
+.heading h3{margin-top: 10px;}
+.heading p{ margin-top:16px;}
+.wrapper h2{ text-align: center;}
+.heading2 .taka{text-align: center; margin-top:50px;}
+.taka5{display: inline;margin-left:50px;}
+.heading3{text-align: center;}
+#input1{ width:450px;margin-top: 20px;}
+#a1{justify-content: center;}
+.button1{text-align: center;margin-top:20px;color:blueviolet;background-color: bisque;}
+
+
+
+
+
+
+.unique{text-align: center;}
+.goal{display: flex;}
+.wrapper{margin-top:10%;}
+*{ margin:0;
+padding:0;
+box-sizing: ;background-color: aquamarine;}
+.target{margin-left:103px;margin-top:25px;width:300px;background: red;height:200px;}
+.logo{ margin-top:100px;}
+
